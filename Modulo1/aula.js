@@ -1,4 +1,4 @@
-// Fundamentos sobre variável Const e let
+// Fundamentos sobre Const e let
 
 //const primeiroNumero = '5' //STRING
 const primeiroNumero = 5; //NUMBER
