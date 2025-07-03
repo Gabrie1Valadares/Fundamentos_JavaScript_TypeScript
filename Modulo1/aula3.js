@@ -1,6 +1,6 @@
-/*// Alert, confirm e prompt (Navegador)
+// Alert, confirm e prompt (Navegador)
 
-//Exercício com variáveis 
+//Exercício com variáveis
 let num1 = prompt("Digite um número: ");
 let num2 = prompt("Digite outro número: ");
 let resultado;
@@ -11,8 +11,6 @@ num2 = Number(num2);
 resultado = num1 + num2;
 
 alert(`O resultado é ${resultado}`);
-
- */
 
 //Exercício com variáveis sobre esculpa de variáveis
 
