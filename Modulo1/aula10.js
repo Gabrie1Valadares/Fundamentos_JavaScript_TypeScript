@@ -31,3 +31,7 @@ console.log(raiz(9));
 */
 
 // Existe tbm uma jeito mais atual de cria um função chamada arrow function
+
+const raiz = (n) => n ** 0.5;
+
+console.log(raiz(9));
