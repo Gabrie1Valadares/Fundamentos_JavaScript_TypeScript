@@ -9,7 +9,7 @@ function saudacao(nome) {
   return 1234;
 }
 
-const variavel = saudacao(w"Ana");
+const variavel = saudacao("Ana");
 
 console.log(variavel);
  
